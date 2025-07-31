@@ -81,22 +81,23 @@
     <p>Crafted with love by Ashwini Waghmare</p>
   </header>  <section class="catalogue">
     <div class="item">
-      <img src="panda.jpg" alt="Panda Keychain">
+      <img src=" "Panda Keychain.jpg"
+      alt="Panda Keychain">
       <h3>Panda Keychain</h3>
       <p>Rs. 250</p>
     </div>
     <div class="item">
-      <img src="penguin.jpg" alt="Penguin Keychain">
+      <img src="Penguin Keychain.jpg" alt="Penguin Keychain">
       <h3>Penguin Keychain</h3>
       <p>Rs. 69</p>
     </div>
     <div class="item">
-      <img src="octopus.jpg" alt="Octopus Keychain">
+      <img src="Octopus Keychain.jpg" alt="Octopus Keychain">
       <h3>Octopus Keychain</h3>
       <p>Rs. 89</p>
     </div>
     <div class="item">
-      <img src="sunflower.jpg" alt="Sunflower Stem">
+      <img src="Sunflower Stem.jpg" alt="Sunflower Stem">
       <h3>Sunflower Stem</h3>
       <p>Rs. 199</p>
     </div>
@@ -116,7 +117,7 @@
       <p>Rs. 89</p>
     </div>
     <div class="item">
-      <img src="/storage/emulated/0/Github/Flower Coaster.jpg" alt="Flower Coaster">
+      <img src="Flower Coaster.jpg" alt="Flower Coaster">
       <h3>Flower Coaster</h3>
       <p>Rs. 129</p>
     </div>
