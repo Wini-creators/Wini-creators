@@ -121,7 +121,7 @@
       <p>Rs. 129</p>
     </div>
   </section>  <footer>
-    WhatsApp: 7506478811| Instagram: @wini_creators | Shipping All Over India
+    WhatsApp: 7506478811| Instagram: https://www.instagram.com/ashwinirw?igsh=eHpyZjQ4bmwyeDE1 | Shipping All Over India
   </footer>
 </body>
 </html>
