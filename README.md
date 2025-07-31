@@ -117,7 +117,7 @@
       <p>Rs. 89</p>
     </div>
     <div class="item">
-      <img src="coaster.jpg" alt="Flower Coaster">
+      <img src="/storage/emulated/0/Github/Flower Coaster.jpg" alt="Flower Coaster">
       <h3>Flower Coaster</h3>
       <p>Rs. 129</p>
     </div>
