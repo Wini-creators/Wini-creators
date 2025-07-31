@@ -81,7 +81,7 @@
     <p>Crafted with love by Ashwini Waghmare</p>
   </header>  <section class="catalogue">
     <div class="item">
-      <img src=" "Panda.jpg"
+      <img src=" "![Image](https://github.com/user-attachments/assets/a0c76f06-597c-40e6-b1c6-26dab8a24bb7)"
       alt="Panda Keychain">
       <h3>Panda Keychain</h3>
       <p>Rs. 250</p>
